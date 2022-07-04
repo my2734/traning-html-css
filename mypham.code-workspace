@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\mypham"
+		},
+		{
+			"path": "..\\..\\laravel"
+		},
+		{
+			"path": "..\\..\\JqueryTranning"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HowTo"
+	}
+}
